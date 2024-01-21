@@ -1,6 +1,6 @@
 ---
 title: "PredictiveFlims - The Movie Recommendation System"
-author: "Durvesh Chaudhari(AI-A-02) , Mayank Kulkarni(AI-A-11) , Sanket Kulkarni(AI-A-12), Rushikesh Tanpure(AI-B-08) , Ganesh Thorat(AI-B-09) "
+author: "Sanket Kulkarni(AI-A-12)"
 output:
   word_document: default
   html_notebook: default
